@@ -1,4 +1,4 @@
-# xmly_spider
+# 爬取喜马拉雅全部分类信息
 Only crawling album information, not audio
 
 ### 爬取喜马拉雅全部分类信息，不爬音频
